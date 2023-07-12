@@ -1,0 +1,1 @@
+It seems that static initialisation code from C++ only runs if some symbol from that translation unit is used in Rust.
